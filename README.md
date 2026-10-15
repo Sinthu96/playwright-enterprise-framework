@@ -1,2 +1,2 @@
 # playwright-enterprise-framework
-Advanced Automation Framework using Playwright with Typescript
+Enterprise test automation framework using Playwright, TypeScript, Jenkins and Allure
